@@ -5,9 +5,9 @@ class BuyTicket
     public static void Main(string[] args)
     {
 
-        var ticketA = 33;
-        var ticketB = 40;
-        var ticketC = 60;
+        var ticketCostA = 33;
+        var ticketCostB = 40;
+        var ticketCostC = 60;
 
 
         Console.WriteLine("Welcome to Amazing Ticket Systems 1.0\n");
@@ -27,6 +27,21 @@ class BuyTicket
             ticketChoice = Console.ReadLine();
         };
 
-        Console.WriteLine("Hej");
+        var totalCost = 0;
+
+        if (ticketChoice == "A")
+        {
+            totalCost = ticketCostA;
+        }
+        else if (ticketChoice == "B")
+        {
+            totalCost = ticketCostB;
+        }
+        else
+        {
+            totalCost = ticketCostC;
+        }
+
+        Console.WriteLine($"You have selected {ticketChoice}, your total cost is ${totalCost}");
     }
 }
