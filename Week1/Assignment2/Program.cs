@@ -9,13 +9,16 @@ class BuyTicket
         var ticketCostB = 40;
         var ticketCostC = 60;
 
+        var vipCost = 20;
 
-        Console.WriteLine("Welcome to Amazing Ticket Systems 1.0\n");
+
+        Console.WriteLine("Welcome to Amazing Ticket Systems 2.0\n");
 
         Console.WriteLine("Which ticket would you like?");
         Console.Write("Type A, B or C: ");
 
         var ticketChoice = Console.ReadLine();
+        ticketChoice = ticketChoice.ToUpper();
 
         while (ticketChoice != "A" && ticketChoice != "B" && ticketChoice != "C")
         {
@@ -25,6 +28,7 @@ class BuyTicket
             Console.Write("Type A, B or C: ");
 
             ticketChoice = Console.ReadLine();
+            ticketChoice = ticketChoice.ToUpper();
         };
 
         var totalCost = 0;
@@ -37,11 +41,38 @@ class BuyTicket
         {
             totalCost = ticketCostB;
         }
-        else
+        else if(ticketChoice == "C")
         {
-            totalCost = ticketCostC;
+            Console.WriteLine("Would you like our special VIP package with that? +$20");
+            Console.Write("Type yes or no: \n");
+
+            var vipChoice = Console.ReadLine();
+            vipChoice = vipChoice.ToLower();
+
+            while (vipChoice != "yes" && vipChoice != "no") {
+                Console.Write("Type yes or no: \n");
+
+                vipChoice = Console.ReadLine();
+                vipChoice = vipChoice.ToLower();
+            }
+
+            if (vipChoice == "yes")
+            {
+                totalCost = ticketCostC + vipCost;
+            }
+            else if (vipChoice == "no")
+            {
+                totalCost = ticketCostC;
+            }            
         }
 
-        Console.WriteLine($"You have selected {ticketChoice}, your total cost is ${totalCost}");
+        if (ticketChoice == "C" && totalCost == 80)
+        {
+            Console.WriteLine($"You have selected {ticketChoice}+VIP, your total cost is ${totalCost}");
+        }
+        else
+        {
+            Console.WriteLine($"You have selected {ticketChoice}, your total cost is ${totalCost}");
+        }
     }
 }
