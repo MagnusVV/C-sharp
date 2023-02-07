@@ -3,7 +3,7 @@
     while (true)
     {
 
-        Console.WriteLine($"{prompt}: ");
+        Console.Write($"{prompt}: ");
 
         var answer = Console.ReadLine();
 
@@ -14,10 +14,10 @@
     };
 };
 
-Console.WriteLine("What's your taste in prompts?");
+//Console.Write("What's your taste in prompts?");
 
-var inputPrompt = Console.ReadLine();
+//var inputPrompt = "Please type a number: ";
 
-var number = GetInteger(inputPrompt);
+var number = GetInteger("Please type a number: ");
 
 Console.WriteLine($"Your number is {number}.");

@@ -1,0 +1,15 @@
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/bin/Debug/net7.0/Assignment 2-4
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/bin/Debug/net7.0/Assignment 2-4.deps.json
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/bin/Debug/net7.0/Assignment 2-4.runtimeconfig.json
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/bin/Debug/net7.0/Assignment 2-4.dll
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/bin/Debug/net7.0/Assignment 2-4.pdb
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/obj/Debug/net7.0/Assignment 2-4.csproj.AssemblyReference.cache
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/obj/Debug/net7.0/Assignment 2-4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/obj/Debug/net7.0/Assignment 2-4.AssemblyInfoInputs.cache
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/obj/Debug/net7.0/Assignment 2-4.AssemblyInfo.cs
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/obj/Debug/net7.0/Assignment 2-4.csproj.CoreCompileInputs.cache
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/obj/Debug/net7.0/Assignment 2-4.dll
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/obj/Debug/net7.0/refint/Assignment 2-4.dll
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/obj/Debug/net7.0/Assignment 2-4.pdb
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/obj/Debug/net7.0/Assignment 2-4.genruntimeconfig.cache
+/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment 2-4/obj/Debug/net7.0/ref/Assignment 2-4.dll

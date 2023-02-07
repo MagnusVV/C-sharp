@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment2-2/Assignment2-2.csproj",
-      "projectName": "Assignment2-2",
-      "projectPath": "/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment2-2/Assignment2-2.csproj",
+      "projectUniqueName": "/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment2-2/Assignment 2-2.csproj",
+      "projectName": "Assignment 2-2",
+      "projectPath": "/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment2-2/Assignment 2-2.csproj",
       "packagesPath": "/Users/vargvinter/.nuget/packages/",
       "outputPath": "/Users/vargvinter/Desktop/github/C-sharp/Week2/Assignment2-2/obj/",
       "projectStyle": "PackageReference",
