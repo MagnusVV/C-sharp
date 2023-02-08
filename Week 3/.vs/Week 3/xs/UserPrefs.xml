@@ -1,10 +1,14 @@
-﻿<Properties StartupConfiguration="{250F1160-2F09-4793-93F0-91367DBE8BFC}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties StartupConfiguration="{4DFB01ED-7CB3-4B18-8B91-A6BE9385BC86}|Default">
+  <MonoDevelop.Ide.ItemProperties.Assignment_2203-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assignment_2203-5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Assignment_2203-4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Assignment_2203-3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment 3-5/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.Assignment_2203-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment 3-6/Program.cs">
     <Files>
-      <File FileName="Assignment 3-5/Program.cs" Line="21" Column="25" />
+      <File FileName="Assignment 3-6/Program.cs" Line="32" Column="48" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +18,8 @@
             <Node name="Assignment 3-2" expanded="True" />
             <Node name="Assignment 3-3" expanded="True" />
             <Node name="Assignment 3-4" expanded="True" />
-            <Node name="Assignment 3-5" expanded="True">
+            <Node name="Assignment 3-5" expanded="True" />
+            <Node name="Assignment 3-6" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -22,12 +27,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Assignment_2203-2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Assignment_2203-5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assignment_2203-1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assignment_2203-6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Assignment_2203-3 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
