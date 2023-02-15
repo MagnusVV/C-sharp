@@ -1,19 +1,13 @@
-﻿<Properties StartupConfiguration="{2D0A4D01-6041-42D2-873E-93CE5F527CD6}|Default">
-  <MultiItemStartupConfigurations />
+﻿<Properties StartupConfiguration="{F735E9A8-C8ED-481E-8C94-2BC65E5DD5F3}|Default">
   <MonoDevelop.Ide.ItemProperties.Assignment_2202 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Assignment_2201 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment 2/Program.cs">
-    <Files>
-      <File FileName="Assignment 2/Program.cs" Line="28" Column="68" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Week 4" expanded="True">
-            <Node name="Assignment 1" expanded="True" />
-            <Node name="Assignment 2" expanded="True" />
+            <Node name="Assignment 6" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -22,4 +16,12 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assignment_2204 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assignment_2201 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Assignment_2206 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assignment_2205 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Assignment_2203 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
