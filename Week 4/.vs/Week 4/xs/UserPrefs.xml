@@ -1,27 +1,32 @@
-﻿<Properties StartupConfiguration="{F735E9A8-C8ED-481E-8C94-2BC65E5DD5F3}|Default">
-  <MonoDevelop.Ide.ItemProperties.Assignment_2202 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{DFD25246-6C56-46A9-8ADD-659A9DE96EAA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment 7/FakeScreensaver.cs">
+    <Files>
+      <File FileName="Assignment 7/Program.cs" Line="5" Column="23" />
+      <File FileName="Assignment 7/FakeScreensaver.cs" Line="13" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Week 4" expanded="True">
-            <Node name="Assignment 6" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="Assignment 7" expanded="True">
+              <Node name="FakeScreensaver.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assignment_2204 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assignment_2206 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Assignment_2201 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Assignment_2203 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Assignment_2207 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Assignment_2202 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Assignment_2205 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Assignment_2204 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Assignment_2201 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Assignment_2206 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Assignment_2205 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Assignment_2203 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
