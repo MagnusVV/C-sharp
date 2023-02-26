@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6265878C-A1B5-476C-B81B-7236E4DDA7B9}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.6-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="6-1/DatabaseApplication.cs">
+    <Files>
+      <File FileName="6-1/Program.cs" />
+      <File FileName="6-1/DatabaseApplication.cs" Line="132" Column="81" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week 6" expanded="True">
+            <Node name="6-1" expanded="True">
+              <Node name="DatabaseApplication.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
