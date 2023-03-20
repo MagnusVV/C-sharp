@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{DE949CA0-58EB-4DD9-A4E8-E5585DF9F0E2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment 1/MusicLinq/MusicLinq.Client/Program.cs">
+    <Files>
+      <File FileName="Assignment 1/Program.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Assignment 1/MusicLinq/MusicLinq.Client/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week 9" expanded="True">
+            <Node name="Assignment 1" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="MusicLinq" expanded="True">
+                <Node name="MusicLinq.Client" expanded="True" />
+                <Node name="MusicLinq.Data" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assignment_2201 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

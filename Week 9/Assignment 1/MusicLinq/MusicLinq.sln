@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicLinq.Data", "MusicLinq.Data\MusicLinq.Data.csproj", "{A0721027-7ADD-4B9C-A1D1-720609C6A650}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicLinq.Client", "MusicLinq.Client\MusicLinq.Client.csproj", "{A6292D0F-8464-4977-9F61-3E59C265CDEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3ABEA81E-C3CA-470C-8121-84EDD31489B5}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0721027-7ADD-4B9C-A1D1-720609C6A650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0721027-7ADD-4B9C-A1D1-720609C6A650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0721027-7ADD-4B9C-A1D1-720609C6A650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0721027-7ADD-4B9C-A1D1-720609C6A650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6292D0F-8464-4977-9F61-3E59C265CDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6292D0F-8464-4977-9F61-3E59C265CDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6292D0F-8464-4977-9F61-3E59C265CDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6292D0F-8464-4977-9F61-3E59C265CDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDB1EC88-DD60-4E51-9E4C-BA1FA1F738D9}
+	EndGlobalSection
+EndGlobal

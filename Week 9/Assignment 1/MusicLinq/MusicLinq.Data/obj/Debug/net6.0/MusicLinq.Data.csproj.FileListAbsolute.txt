@@ -1,0 +1,13 @@
+/Users/vargvinter/Desktop/github/C-sharp/Week 9/Assignment 1/MusicLinq/MusicLinq.Data/bin/Debug/net6.0/database.json
+/Users/vargvinter/Desktop/github/C-sharp/Week 9/Assignment 1/MusicLinq/MusicLinq.Data/bin/Debug/net6.0/MusicLinq.Data.deps.json
+/Users/vargvinter/Desktop/github/C-sharp/Week 9/Assignment 1/MusicLinq/MusicLinq.Data/bin/Debug/net6.0/MusicLinq.Data.dll
+/Users/vargvinter/Desktop/github/C-sharp/Week 9/Assignment 1/MusicLinq/MusicLinq.Data/bin/Debug/net6.0/MusicLinq.Data.pdb
+/Users/vargvinter/Desktop/github/C-sharp/Week 9/Assignment 1/MusicLinq/MusicLinq.Data/obj/Debug/net6.0/MusicLinq.Data.csproj.AssemblyReference.cache
+/Users/vargvinter/Desktop/github/C-sharp/Week 9/Assignment 1/MusicLinq/MusicLinq.Data/obj/Debug/net6.0/MusicLinq.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vargvinter/Desktop/github/C-sharp/Week 9/Assignment 1/MusicLinq/MusicLinq.Data/obj/Debug/net6.0/MusicLinq.Data.AssemblyInfoInputs.cache
+/Users/vargvinter/Desktop/github/C-sharp/Week 9/Assignment 1/MusicLinq/MusicLinq.Data/obj/Debug/net6.0/MusicLinq.Data.AssemblyInfo.cs
+/Users/vargvinter/Desktop/github/C-sharp/Week 9/Assignment 1/MusicLinq/MusicLinq.Data/obj/Debug/net6.0/MusicLinq.Data.csproj.CoreCompileInputs.cache
+/Users/vargvinter/Desktop/github/C-sharp/Week 9/Assignment 1/MusicLinq/MusicLinq.Data/obj/Debug/net6.0/MusicLinq.Data.dll
+/Users/vargvinter/Desktop/github/C-sharp/Week 9/Assignment 1/MusicLinq/MusicLinq.Data/obj/Debug/net6.0/refint/MusicLinq.Data.dll
+/Users/vargvinter/Desktop/github/C-sharp/Week 9/Assignment 1/MusicLinq/MusicLinq.Data/obj/Debug/net6.0/MusicLinq.Data.pdb
+/Users/vargvinter/Desktop/github/C-sharp/Week 9/Assignment 1/MusicLinq/MusicLinq.Data/obj/Debug/net6.0/ref/MusicLinq.Data.dll

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F9884F8A-5F15-45C6-B8A9-31F5D2AB502E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Wordplay PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Wordplay/WordHandler.cs">
+    <Files>
+      <File FileName="Wordplay/FetchRandomWord.cs" />
+      <File FileName="Wordplay/Program.cs" />
+      <File FileName="Wordplay/PlayHangedman.cs" Line="29" Column="108" />
+      <File FileName="Wordplay/WordHandler.cs" Line="31" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project 99" expanded="True">
+            <Node name="Wordplay">
+              <Node name="WordHandler.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

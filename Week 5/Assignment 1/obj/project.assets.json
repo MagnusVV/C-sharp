@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vargvinter/Projects/Week 5/Assignment 1/Assignment 1.csproj",
+      "projectUniqueName": "/Users/vargvinter/Desktop/github/C-sharp/Week 5/Assignment 1/Assignment 1.csproj",
       "projectName": "Assignment 1",
-      "projectPath": "/Users/vargvinter/Projects/Week 5/Assignment 1/Assignment 1.csproj",
+      "projectPath": "/Users/vargvinter/Desktop/github/C-sharp/Week 5/Assignment 1/Assignment 1.csproj",
       "packagesPath": "/Users/vargvinter/.nuget/packages/",
-      "outputPath": "/Users/vargvinter/Projects/Week 5/Assignment 1/obj/",
+      "outputPath": "/Users/vargvinter/Desktop/github/C-sharp/Week 5/Assignment 1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vargvinter/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200-preview.22628.1/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

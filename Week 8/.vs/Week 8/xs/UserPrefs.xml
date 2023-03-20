@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2820680E-75BC-4CA3-9101-7C8F6C910818}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assignment_2201 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment 1/Spaceship.cs">
+    <Files>
+      <File FileName="Assignment 1/Program.cs" />
+      <File FileName="Assignment 1/Cargo.cs" />
+      <File FileName="Assignment 1/Spaceship.cs" Line="85" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week 8" expanded="True">
+            <Node name="Assignment 1">
+              <Node name="Spaceship.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
