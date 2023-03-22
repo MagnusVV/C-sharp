@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Text;
+
 namespace Wordplay
 {
     public class WordHandler
@@ -22,17 +24,29 @@ namespace Wordplay
             return scrambled;
         }
 
-        public void LookFoorGuessedLetterInWord(string guessedLetter, string theWord, string scrambledWord)
+        public string LookFoorGuessedLetterInWord(
+            string guessedLetter, string theWord, string scrambledWord
+            )
         {
+            string compareScrambledWord = scrambledWord;
+
             for (int position = 0; position < theWord.Length; position++)
             {
+                if (guessedLetter == scrambledWord.Substring(position, 1))
+                {
+                    return guessedLetter;
+                }
+
                 if (guessedLetter == theWord.Substring(position, 1))
                 {
-                    scrambledWord.Substring(position, 1).Replace("*", guessedLetter);
-                    Console.WriteLine(scrambledWord);
+                    StringBuilder modifyScrambledWord = new StringBuilder(scrambledWord);
+                    char guessedChar = char.Parse(guessedLetter);
+                    modifyScrambledWord[position] = guessedChar;
+
+                    scrambledWord = modifyScrambledWord.ToString();
                 }
             }
+            return scrambledWord;
         }
     }
 }
-
