@@ -5,27 +5,43 @@ namespace Wordplay
 	public class PlayHangedman
 	{
         private WordHandler PreparedWord { get; }
-        private int _counter = 0;
+        int _counter = 0;
 
 		public PlayHangedman(WordHandler theWord)
 		{
-            PreparedWord = theWord;
-
-            Console.WriteLine("WELCOME to the GREATEST Hanged man game of ALL* time!");
-			Console.WriteLine(" *(User experience may vary)");
-            Console.WriteLine(" ...\n");
-            Console.WriteLine($"Anyway, the word consists of {PreparedWord.TheWord.Length} letters. Why don't you guess one?\n");
+            PreparedWord = theWord;         
         }
 
         public bool playGame()
         {
+            Console.WriteLine("WELCOME to the GREATEST Hanged man game of ALL* time!");
+            Console.WriteLine(" *(User experience may vary)");
+            Console.WriteLine(" ...\n");
+            Console.WriteLine($"Anyway, the word consists of {PreparedWord.TheWord.Length} letters. Why don't you guess one?\n");
+
             var scrambledWord = PreparedWord.ScrambledWord;
             var wrongGuesses = new List<string>();
 
             while (true)
             {
-                Console.WriteLine(PreparedWord.TheWord);
-                
+                DrawHangedman.Draw(_counter);
+
+                if (_counter > 10)
+                {
+                    Console.Clear();
+                    Console.WriteLine("Ouch. GAME OVER!");
+                    Console.Write("Press any key.");
+
+                    DrawHangedman.Draw(_counter);
+
+                    Console.ReadKey();
+                    Console.Clear();
+
+                    return false;
+                }
+
+                Console.SetCursorPosition(0, Console.WindowHeight / 3);
+
                 if (wrongGuesses.Count > 0)
                 {
                     Console.Write("\nWRONG guesses: ");
@@ -52,7 +68,7 @@ namespace Wordplay
                     continue;
                 }
 
-                var guessResult = PreparedWord.LookFoorGuessedLetterInWord(
+                var guessResult = WordHandler.LookFoorGuessedLetterInWord(
                     guessedLetter, PreparedWord.TheWord, scrambledWord
                     );
 
@@ -68,7 +84,7 @@ namespace Wordplay
                     
                     if (wrongGuesses.Contains(guessedLetter))
                     {
-                        Console.WriteLine($"'{guessedLetter}'? It was wrong the last time you trid.\n");
+                        Console.WriteLine($"'{guessedLetter}'? Still wrong.\n");
 
                         continue;
                     }
@@ -93,13 +109,10 @@ namespace Wordplay
                 {
                     Console.Clear();
                     Console.WriteLine($"{scrambledWord}! You did it!");
-                    Console.WriteLine("GONGRATS! ...Please do come again.");
+                    Console.WriteLine("CONGRATS! ...Please do come again.");
 
                     return false;
                 }
-
-                //Console.WriteLine(_counter);
-
             }
         }
 	}

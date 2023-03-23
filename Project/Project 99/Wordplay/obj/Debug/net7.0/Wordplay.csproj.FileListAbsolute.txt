@@ -15,3 +15,6 @@
 /Users/vargvinter/Desktop/github/C-sharp/Project/Project 99/Wordplay/obj/Debug/net7.0/ref/Wordplay.dll
 /Users/vargvinter/Desktop/github/C-sharp/Project/Project 99/Wordplay/bin/Debug/net7.0/Newtonsoft.Json.dll
 /Users/vargvinter/Desktop/github/C-sharp/Project/Project 99/Wordplay/obj/Debug/net7.0/Wordplay.csproj.CopyComplete
+/Users/vargvinter/Desktop/github/C-sharp/Project/Project 99/Wordplay/bin/Debug/net7.0/y-coordinates.txt
+/Users/vargvinter/Desktop/github/C-sharp/Project/Project 99/Wordplay/bin/Debug/net7.0/HangedMan.txt
+/Users/vargvinter/Desktop/github/C-sharp/Project/Project 99/Wordplay/bin/Debug/net7.0/x-coordinates.txt

@@ -14,21 +14,21 @@ namespace Wordplay
             ScrambledWord = ScrambleWord(theWord);
         }
 
-        private string ScrambleWord(string scrambleThis)
+        private static string ScrambleWord(string scrambleThisWord)
         {
-            var scrambled = "";
-            for (int i = 0; i < scrambleThis.Length; i++)
+            var scrambledWord = "";
+            for (int i = 0; i < scrambleThisWord.Length; i++)
             {
-                scrambled = scrambled.Insert(scrambled.Length, "*");
+                scrambledWord = scrambledWord.Insert(scrambledWord.Length, "*");
             }
-            return scrambled;
+
+            return scrambledWord;
         }
 
-        public string LookFoorGuessedLetterInWord(
+        public static string LookFoorGuessedLetterInWord(
             string guessedLetter, string theWord, string scrambledWord
             )
         {
-            string compareScrambledWord = scrambledWord;
 
             for (int position = 0; position < theWord.Length; position++)
             {
@@ -46,6 +46,7 @@ namespace Wordplay
                     scrambledWord = modifyScrambledWord.ToString();
                 }
             }
+
             return scrambledWord;
         }
     }
