@@ -22,6 +22,7 @@ namespace Wordplay
             var scrambledWord = PreparedWord.ScrambledWord;
             var wrongGuesses = new List<string>();
 
+
             while (true)
             {
                 DrawHangedman.Draw(_counter);

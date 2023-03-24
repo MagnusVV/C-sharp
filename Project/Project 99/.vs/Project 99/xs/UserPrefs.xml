@@ -1,24 +1,26 @@
 ﻿<Properties StartupConfiguration="{F9884F8A-5F15-45C6-B8A9-31F5D2AB502E}|Default">
   <MonoDevelop.Ide.ItemProperties.Wordplay PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Wordplay/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Wordplay/FetchRandomWord.cs">
     <Files>
-      <File FileName="Wordplay/PlayHangedman.cs" Line="8" Column="25" />
+      <File FileName="Wordplay/Program.cs" Line="10" Column="1" />
+      <File FileName="Wordplay/HangedMan.txt" Line="1" Column="1" />
+      <File FileName="Wordplay/x-coordinates.txt" Line="1" Column="1" />
+      <File FileName="Wordplay/y-coordinates.txt" Line="1" Column="1" />
+      <File FileName="Wordplay/WordHandler.cs" Line="1" Column="1" />
+      <File FileName="Wordplay/PlayHangedman.cs" Line="1" Column="1" />
+      <File FileName="Wordplay/DrawHangedman.cs" Line="1" Column="1" />
       <File FileName="Wordplay/FetchRandomWord.cs" Line="1" Column="1" />
-      <File FileName="Wordplay/Program.cs" Line="10" Column="17" />
-      <File FileName="Wordplay/WordHandler.cs" Line="18" Column="10" />
-      <File FileName="Wordplay/DrawHangedman.cs" Line="14" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Project 99">
             <Node name="Wordplay">
-              <Node name="Program.cs" selected="True" />
+              <Node name="FetchRandomWord.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -26,4 +28,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
